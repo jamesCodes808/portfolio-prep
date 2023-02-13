@@ -1,17 +1,18 @@
 # portfolio-prep
 
-## TO DO:
+## James Ian Solima
 
-### About Me
+### Full Stack Developer
 
-- A two or three word catchy title. Do NOT use cliches like “programming ninja” or “coding rockstar”.
-- A personal headline, like you have atop your LinkedIn page. What do you want your career to be about?
-- Your professional pitch: You’ve done a recording, so just write down here how it goes.
-- What excites you the most about tech? Write 1-2 sentences.
+### Passionate about AI, Machine Learning and creating tools to help advance society
 
-### Assets
+### Professional Pitch
 
-- A headshot of your wonderful face, approximately 200x250 pixels.
-- A background image, approximately 1500x700 pixels.
-- At least three screenshots of the best-looking parts of a previous project, like your Code 201 final project.
-- At least three screenshots each, of two other projects you have worked on. Salmon Cookies? Odd Duck?
+Hello, my name is James Ian Solima, I am an Army veteran with a Bachelor’s Of Science in Information Technology. This is where I was exposed to different subjects of IT, databases and development. I have always had a fascination with technology and how it is constantly evolving to advance society which pushed me to teach myself some front end languages like HTML, CSS and Javascript. I continued to chase this fascination and advance my learning by going to a coding bootcamp called Sabio, where I learned full stack development with ASP.NET and C#. With this knowledge I was chosen amongst a team of 13 developers to help build a working MVP for a start-up called HubLink in 3 months. Since then, I have been working on an L2 Application Production Support team for Bank of America diagnosing, troubleshooting and improving enterprise applications. I am currently focused on learning the Python stack as I am interested in AI and machine learning. With my background I am able to stay resourceful, adaptable and persistent with learning new technologies and concepts to contribute innovation to any team I am a part of. Thanks for stopping by, hope to hear from you soon!
+
+### What Excites Me About Tech
+
+Some of the things that excite me the most about tech are the innovations they bring in hardware and in software such as self driving cars, smart appliances and AI in art, documentation and our everyday lives. I want to be able to contribute to the development of that kind of world where we can live alongside AI in a way that advances us. I also love video games and would like to create fun games on the side. 
+
+
+
